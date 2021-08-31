@@ -11,7 +11,7 @@ def main():
                 m = 1
                 y = y + 1
             else:
-                m = m + 1
+                m = m +1
         else:
             d = d + 1
     # Meses con 30 dias: 4, 6, 9, 11

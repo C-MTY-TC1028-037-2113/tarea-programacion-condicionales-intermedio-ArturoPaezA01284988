@@ -13,7 +13,7 @@ def main():
         x=c//100000
         y=(c-(x*100000))//100
         z=(c-(x*100000)-(y*100))
-        if x!=0 :
+        if x!=0:
             print(x,"km")
         if y!=0:
             print(y,"m")

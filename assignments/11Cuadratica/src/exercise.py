@@ -5,6 +5,7 @@ def main():
     a=int(input("Da el valor de a: "))
     b=int(input("Da el valor de b: "))
     c=int(input("Da el valor de c: "))
+    
     if (a==0) and (b==0):
         print("No tiene solucion")
     elif (a==0):
